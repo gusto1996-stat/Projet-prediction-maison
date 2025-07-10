@@ -28,7 +28,7 @@ Ce projet vise à prédire le prix de maisons en utilisant des techniques d'anal
 
 📁 tp2-prix-maison
 │
-├── TP2 Predire le prix dune maison Project.ipynb ← Notebook principal
+├── Projet-prediction-maison.ipynb ← Notebook principal
 ├── README.md ← Ce fichier
 
 
